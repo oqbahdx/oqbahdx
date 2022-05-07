@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oq__dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oq__dx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oqbah-dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oqbah-dx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oqbah-dx-25b9951b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oqbah-dx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12325581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12325581" height="30" width="40" /></a>
 <a href="https://fb.com/oqbah.dx.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oqbah.dx.7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oq_dx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oq_dx/" height="30" width="40" /></a>
