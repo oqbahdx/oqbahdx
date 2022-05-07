@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/oqbah-dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oqbah-dx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12325581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12325581" height="30" width="40" /></a>
 <a href="https://fb.com/oqbah.dx.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oqbah.dx.7" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/oq_dx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oq_dx/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/oq_dx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oq_dx/" height="30" width="40" /></a>
 <a href="https://dribbble.com/oqbahdx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="oqbahdx" height="30" width="40" /></a>
 </p>
 
