@@ -11,6 +11,7 @@
 - 💬 Ask me about **flutter , mobile apps and windows programs**
 
 - 📫 How to reach me **oqbahdx@gmail.com**
+- https://github-readme-stats.vercel.app/api?username=oqbahdx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
