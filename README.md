@@ -11,8 +11,8 @@
 - 💬 Ask me about **flutter , mobile apps and windows programs**
 
 - 📫 How to reach me **oqbahdx@gmail.com**
-- <img src = "https://github-readme-stats.vercel.app/api?username=oqbahdx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oqbahdx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- <img src = "https://github-readme-stats.vercel.app/api?username=oqbahdx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oqbahdx&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oq__dx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oq__dx" height="30" width="40" /></a>
