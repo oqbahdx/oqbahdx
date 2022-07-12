@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Hand Made Application](https://github.com/oqbahdx/hand-made-new)
 
-- 🌱 I’m currently learning **Flutter Clean Architecture With MVVM , Laravel , React**
+- 🌱 I’m currently learning **Flutter Clean Architecture With MVVM , Asp.net Core , React**
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/oqbahdx](https://dribbble.com/oqbahdx)
 
