@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Hand Made Application](https://github.com/oqbahdx/hand-made-new)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform - Web Full Stack**
+- 🌱 I’m currently learning **Kotlin Multiplatform - Node js**
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/oqbahdx](https://dribbble.com/oqbahdx)
 
