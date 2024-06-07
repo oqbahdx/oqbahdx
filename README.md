@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm OQBAH AHMED</h1>
 <h3 align="center">Software Engineer / Flutter Developer</h3>
 
-- 🔭 I’m currently working on [Hand Made Application](https://github.com/oqbahdx/hand-made-new)
+- 🔭 I’m currently working on [Wash Station Clients Application](https://github.com/oqbahdx/wash-station-clients)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform - Node js**
+- 🌱 I’m currently learning **Kotlin Multiplatform - Node js - Asp.net**
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/oqbahdx](https://dribbble.com/oqbahdx)
 
