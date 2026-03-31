@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-// software engineer
+software engineer
 ```
 
 # OQBAH AHMED
